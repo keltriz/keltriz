@@ -1,16 +1,62 @@
-## Hi there 👋
+# <h1 align="center">👨‍💻 keltriz</h1>
 
-<!--
-**keltriz/keltriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=600&lines=Python+Learner;HTML+%26+CSS+Developer;Future+Cybersecurity+Specialist;Always+Learning+New+Things">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me :)
+
+💻 Learning programming and cybersecurity
+🐍 Studying **Python**
+🌐 Learning **HTML & CSS**
+🔐 Interested in **Cybersecurity & Ethical Hacking**
+🚀 Always improving my skills
+
+---
+
+## ⚙️ Technologies I'm Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff00">
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff00">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00">
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=chartreuse-dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🛰️ Cybersecurity Path
+
+```bash
+> Learning Python
+> Studying Web Development
+> Exploring Linux
+> Practicing Ethical Hacking
+> Future Cybersecurity Specialist
+```
+
+---
+
+<p align="center">
+ "The quieter you become, the more you are able to hear."
+</p>
