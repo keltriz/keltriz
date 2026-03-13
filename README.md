@@ -8,11 +8,11 @@
 
 ##  About Me :)
 
-💻 Learning programming and cybersecurity
-🐍 Studying **Python**
-🌐 Learning **HTML & CSS**
-🔐 Interested in **Cybersecurity & Ethical Hacking**
-🚀 Always improving my skills
+ Learning programming and cybersecurity
+ Studying **Python**
+ Learning **HTML & CSS**
+ Interested in **Cybersecurity & Ethical Hacking**
+ Always improving my skills :)
 
 ---
 
